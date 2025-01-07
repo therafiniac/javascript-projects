@@ -1,1 +1,1 @@
-# udemy-javascript-learning
+# javascript-projects
